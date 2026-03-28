@@ -1,0 +1,5 @@
+.venv 
+.DS_Store
+.vscode
+student_dataset/image_data/
+student_dataset/student_failure/train.csv
