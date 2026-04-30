@@ -1,5 +1,20 @@
-.venv 
+# Environnement Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
 .DS_Store
-.vscode
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter - checkpoints (les outputs/metadata sont gérés par nbstripout)
+.ipynb_checkpoints/
+
+# Données (trop lourdes pour git)
 student_dataset/image_data/
 student_dataset/student_failure/train.csv
+
