@@ -17,5 +17,5 @@ __pycache__/
 # Données (trop lourdes pour git)
 student_dataset/image_data/
 student_dataset/student_failure/train.csv
-Graph/
+Projet/experiments/
 
